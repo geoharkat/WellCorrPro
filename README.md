@@ -2,7 +2,7 @@
 
 > A browser-based, zero-dependency tool for well log correlation, formation top picking, and geosteering QC — deployed as a single HTML file on GitHub Pages.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00e0a0?style=flat-square&logo=github)](https://geoharkat.github.io/wellcorr-pro/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-00e0a0?style=flat-square&logo=github)]([https://geoharkat.github.io/wellcorr-pro/](https://geoharkat.github.io/WellCorrPro/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-f0a030?style=flat-square)](LICENSE)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-None-6ab0f0?style=flat-square)]()
 
